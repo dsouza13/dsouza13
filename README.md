@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**dsouza13/dsouza13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Amatic+SC&size=40&color=099A07&center=true&width=700&lines=Hi%2C+there!+I'm+Daniel!;Always+focusing+on+learning!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
