@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rock+Salt&size=60&color=409A63&center=true&vCenter=true&multiline=true&width=1200&height=240&lines=Hi%2C+there!+I'm+Daniel!;Always+focusing+on+learning!)](https://git.io/typing-svg)
 
-<a href="https://twitter.com/Pratikpkb" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/pratik-kumar04" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/pratikkumar04" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://www.linkedin.com/in/daniel-souza-810b62a0/" target="_blank" rel="nofollow"><img align="right" alt="Daniel's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+
+<a href="https://www.instagram.com/danielssouzaa/" target="_blank" rel="nofollow"><img align="right" alt="Daniel's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 I am a PHD student [UFPA](https://portal.ufpa.br/) solving problems with IA and MCDM methods and more. 
 
