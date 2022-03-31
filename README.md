@@ -10,6 +10,6 @@ I am a PHD student at [UFPA](www.lpo.ufpa.br/) solving problems with IA and MCDM
 
 <p align = "center">
 <a href="https://github.com/dsouza13">
-  <img src = "https://github-readme-stats.vercel.app/api?username=dsouza13&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=dsouza13&show_icons=true&theme=bear" width = 405>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsouza13&layout=compact&langs_count=7&theme=bear" width = 400/>
 </p>
