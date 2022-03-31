@@ -15,5 +15,5 @@ I am a PHD student at [UFPA](www.lpo.ufpa.br/) solving problems with IA and MCDM
 </p>
 
 <div>
-    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/dsouza13/dsouza13/blob/output/github-contribution-grid-snake.svg)
 </div>
